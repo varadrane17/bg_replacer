@@ -1,0 +1,11 @@
+torch
+torchvision
+pillow
+numpy
+typing
+scikit-image
+Diffusers==0.26.2   # wont work on other diffusion models.
+transformers>=4.39.1
+fastapi 
+uvicorn 
+# accelerate
